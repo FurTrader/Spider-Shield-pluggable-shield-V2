@@ -5,6 +5,8 @@ Breakout board for Arduino Nano and Uno
 This is a breakout shield for the Arduino Nano and UNO.
 It was designed in house by Overkill Solar for an internal project.    
 
+It is open source hardware, see license.txt
+
 We are offering the extra boards for sale at this address: https://overkillsolar.com/product/spider-shield-v2/
 
 It accommodates both the Nano and Uno, including the Nano’s extra analog inputs.
