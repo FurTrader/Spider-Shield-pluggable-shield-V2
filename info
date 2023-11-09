@@ -1,0 +1,221 @@
+{
+  "uuid": "79734e1c0301a51598bb54add10d4b00",
+  "path": "Offline/Spider%20Shield%20pluggable%20shield%20V2",
+  "name": "Spider Shield pluggable shield V2",
+  "content": "",
+  "created_at": "2022-06-08 09:00:15",
+  "updated_at": "2023-11-09 10:30:30",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "21468344b487155e24c865b7abeb1d98",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d05f4e0bca054397aa15548595c7346f": 22,
+        "87a0428fe4544331abd8efea04b8c19d": 2,
+        "20e2a2fe0d5344c8bcb2e4bbd695ee30": 1,
+        "8faf85626062452bb09e0ae313e25f19": 44,
+        "a74be23f81e2429db59ed5fc1a525218": 1,
+        "b7adf400643b4936be8b786704d0e70f": 1,
+        "fff3ee1e602c4a7d9242a5c89a0464ef": 6,
+        "54fafc69bea54567a049a66b7ce647ba": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "JUMPER2",
+          1,
+          "2P CONNECTOR CUSTOM ST",
+          "5V_BACK",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C8383",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "WJ2EDGR-5.08-2P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "f90133f2ad584c0d9604525f157ce719",
+            "uuid": "fff3ee1e602c4a7d9242a5c89a0464ef"
+          }
+        ],
+        [
+          "2EDGRC-5.08-03P-14-100A(H)",
+          22,
+          "3P CONNECTOR CUSTOM6",
+          "A0,A1,A2,A3,A4,A5,A6,A7,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,I2C,SERIAL",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C70914",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "WJ2EDGR-5.08-3P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "763e6139be3543298e290a52ed2fbccd",
+            "uuid": "d05f4e0bca054397aa15548595c7346f"
+          }
+        ],
+        [
+          "JUMPER2",
+          2,
+          "JUMPER2",
+          "LINK_1V,LINK_5V",
+          {
+            "BOM_Manufacturer Part": "PZ254V-11-02P",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "XFCN(兴飞)",
+            "BOM_Supplier Part": "C492401",
+            "puuid": "2126a3d0fdba4ee1844b85ee5549cb5d",
+            "uuid": "87a0428fe4544331abd8efea04b8c19d"
+          }
+        ],
+        [
+          "ARDUINO_NANO",
+          1,
+          "ARDUINO_NANO CUSTOM ST2",
+          "NANO",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C9900017879",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "ARDUINO_NANO",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "db2fa1df358546f5962464bd0de273a3",
+            "uuid": "b7adf400643b4936be8b786704d0e70f"
+          }
+        ],
+        [
+          "JUMPER2",
+          3,
+          "2P JUMPER CUSTOM",
+          "P23,P24,P25",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C492401",
+            "BOM_Manufacturer": "XFCN(兴飞)",
+            "BOM_Manufacturer Part": "PZ254V-11-02P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "aa7159ed902646a9ac4e2276f9e21cc2",
+            "uuid": "fff3ee1e602c4a7d9242a5c89a0464ef"
+          }
+        ],
+        [
+          "TAC_SWITCHPTH",
+          1,
+          "TACTILE-PTH",
+          "RESET",
+          {
+            "BOM_Manufacturer Part": "TS665CJ",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SHOU HAN",
+            "BOM_Supplier Part": "C393938",
+            "puuid": "3ce14a6b4961469894f0d82b296c83a6",
+            "uuid": "54fafc69bea54567a049a66b7ce647ba"
+          }
+        ],
+        [
+          "RESET",
+          1,
+          "2P CONNECTOR CUSTOM ST",
+          "RESET2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C8383",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "WJ2EDGR-5.08-2P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "f90133f2ad584c0d9604525f157ce719",
+            "uuid": "fff3ee1e602c4a7d9242a5c89a0464ef"
+          }
+        ],
+        [
+          "JUMPER3",
+          44,
+          "3P JUMPER CUSTOM",
+          "U1,U2,U3,U4,U5,U6,U7,U8,U9,U10,U11,U12,U13,U14,U15,U16,U17,U18,U19,U20,U21,U22,U23,U24,U25,U26,U27,U28,U29,U30,U31,U32,U33,U34,U35,U36,U37,U38,U40,U41,U42,U43,U44,U45",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C49257",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "Header2.54mm 1*3P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "015cb920d5ea45e1bc1b5b971b485ab3",
+            "uuid": "8faf85626062452bb09e0ae313e25f19"
+          }
+        ],
+        [
+          "ARDUINO UNO",
+          1,
+          "CUSTOM UNO SHIELD WIDE ST7",
+          "UNO",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Botland",
+            "BOM_Manufacturer Part": "",
+            "puuid": "24621b1e90f143fbb212dcde112d8170",
+            "uuid": "20e2a2fe0d5344c8bcb2e4bbd695ee30"
+          }
+        ],
+        [
+          "VIN",
+          1,
+          "2P CONNECTOR CUSTOM ST",
+          "VIN",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C8383",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "WJ2EDGR-5.08-2P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "f90133f2ad584c0d9604525f157ce719",
+            "uuid": "fff3ee1e602c4a7d9242a5c89a0464ef"
+          }
+        ]
+      ],
+      "updateTime": 1669585653,
+      "createTime": 1654693215,
+      "histories": [],
+      "created_at": "2022-06-08 09:00:15",
+      "updated_at": "2022-11-27 16:47:33"
+    },
+    {
+      "uuid": "8572bca802a7aabb6ea5379f97571506",
+      "puuid": "79734e1c0301a51598bb54add10d4b00",
+      "title": "PCB_Spider Shield pluggable shield V2b",
+      "filename": "PCB_Spider Shield pluggable shield V2b.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "24621b1e90f143fbb212dcde112d8170": 1,
+        "aa7159ed902646a9ac4e2276f9e21cc2": 3,
+        "f90133f2ad584c0d9604525f157ce719": 3,
+        "db2fa1df358546f5962464bd0de273a3": 1,
+        "015cb920d5ea45e1bc1b5b971b485ab3": 44,
+        "763e6139be3543298e290a52ed2fbccd": 22,
+        "2126a3d0fdba4ee1844b85ee5549cb5d": 2,
+        "614938d722934770bc3576d498d15d30": 1,
+        "3ce14a6b4961469894f0d82b296c83a6": 1
+      },
+      "BOM": [],
+      "updateTime": 1699543830,
+      "createTime": 1654694350,
+      "histories": [],
+      "created_at": "2022-06-08 09:19:10",
+      "updated_at": "2023-11-09 10:30:30"
+    }
+  ],
+  "sort": [],
+  "title": "Spider Shield pluggable shield V2",
+  "foldername": "Spider Shield pluggable shield V2",
+  "schfilename": "Spider Shield pluggable shield V2.json",
+  "schfilemtime": 1669585653222
+}
